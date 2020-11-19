@@ -278,6 +278,7 @@
     }
     
     .footer {
+        display:none;
         /*add 30-pixel padding*/
         padding: 30px;
         /* not allowing to float outside the elements*/
